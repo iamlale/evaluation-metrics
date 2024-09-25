@@ -4,7 +4,7 @@ This project demonstrates how to evaluate a text generation model using Hugging 
 
 **Prerequisites**
 Before running the code, ensure that the required packages are installed. You can install them using the following command:
-```python
+```
 !pip install transformers datasets evaluate bert_score sacrebleu rouge_score numpy pandas
 ```
 Additionally, if you are using Google Colab, you need to mount Google Drive to save the results.
